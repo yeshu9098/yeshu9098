@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yeshu9098
+- 👋 Hi, I’m Yeeshu Sharma
 - 👀 I’m interested in developing website
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on django projects
