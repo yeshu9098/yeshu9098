@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Yeeshu Sharma
-- 👀 I’m interested in developing website
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on django projects
 - 📫 How to reach me yeshu9098@gmail.com
 
 <!---
